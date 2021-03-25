@@ -29,7 +29,7 @@
   },
   "peerDependencies": {
     "prop-types": "^15",
-    "react": "^16",
+    "react": "^17",
     "styled-components": "^4"
   },
   "devDependencies": {
